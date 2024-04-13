@@ -49,6 +49,6 @@ Q10. JUNCTION TYPES WITH THE HIGHEST PROPORTION OF FATAL ACCIDENTS - We can see 
 
 The exploratory analysis conducted above serves as a testament to my expertise in utilizing SQL for data analysis. Throughout the analysis, I employed a range of techniques including aggregations, JOINs, CTEs, and Sub-Queries to extract valuable insights from the data. By leveraging these advanced SQL functionalities, I was able to uncover hidden patterns, establish connections between different data sets, and derive meaningful conclusions. This demonstrated my ability to employ diverse analytical approaches and showcase the full potential of SQL for in-depth data analysis.
 
-PS: I created a view for Middlesbrough and extracted the data for analysis in Power BI. The dashboard can be found in the link [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjQ5ZDczMWQtM2UwNi00YzYxLWJhODUtYzNhN2UwYmIyNGI2IiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9)
+PS: I created a view for Middlesbrough and extracted the data for analysis in Power BI. The dashboard can be found in the link [HERE](https://app.powerbi.com/view?r=eyJrIjoiNWY0NGFmNjAtOWQzOC00ODIwLTk1YzEtZGUxMWUxOGQ3ZjExIiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9)
 
 Thank you for reading!☺️
